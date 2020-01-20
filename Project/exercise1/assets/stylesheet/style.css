@@ -92,6 +92,12 @@ section{height:400px;
 	line-height: 30px;
 	background: linear-gradient(to left bottom, rgb(7, 150, 206),rgb(3, 80, 80));
 }
+
+.icon:before{list-style: none;
+	content:'\00267c';
+	margin-left: -2px;
+	margin-right: 10px;
+}
 .para{clear: both;
 	height:30%;
 	width:80%;
@@ -105,9 +111,4 @@ section{height:400px;
 }
 .space2{font-size: 25px;
 	margin-left: 70px;
-}
-.icon:before{list-style: none;
-	content:'\00267c';
-	margin-left: -2px;
-	margin-right: 10px;
 }
