@@ -1,4 +1,0 @@
-1. delete this file
-2. make the folders exercise1 and exercise2 as required.
-3. continue doing your work as per the folder structure told.
-4. always rad the instructions given.
